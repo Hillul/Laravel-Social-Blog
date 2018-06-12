@@ -50,8 +50,8 @@ A blog  is a discussion or informational website published on the World Wide Web
 
 ## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
-Link for the vides- https://www.youtube.com/playlist?list=PL55RiY5tL51oloSGk5XdO2MGjPqc0BxGV
+- Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+- Link for the vides- https://www.youtube.com/playlist?list=PL55RiY5tL51oloSGk5XdO2MGjPqc0BxGV
 
 
 
