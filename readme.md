@@ -21,24 +21,24 @@ A blog  is a discussion or informational website published on the World Wide Web
 
 ## Database Design
  - Tbl_users
-    id	            integer
-    time	          timestamp
-    email     	    varchar
-    First_name	    varchar
-    password	      varchar
-    Remember_token	varchar
+    - id	            integer
+    - time	          timestamp
+    - email     	    varchar
+    - First_name	    varchar
+    - password	      varchar
+    - Remember_token	varchar
  - Tbl_likes
-    id	            integer
-    time	          timestamp
-    User_id	        integer
-    Post_id	        integer
-    like	          integer
+    - id	            integer
+    - time	          timestamp
+    - User_id	        integer
+    - Post_id	        integer
+    - like	          integer
   
  - Tbl_post
-    id	            integer
-    time	          timestamp
-    body	          varchar
-    User_id	        integer
+    - id	            integer
+    - time	          timestamp
+    - body	          varchar
+    - User_id	        integer
 ## Technology Used
  - Laravel
  - Php
