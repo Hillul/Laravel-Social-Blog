@@ -21,12 +21,12 @@ A blog  is a discussion or informational website published on the World Wide Web
 
 ## Database Design
  - Tbl_users
-    - id	            integer
-    - time	          timestamp
-    - email     	    varchar
-    - First_name	    varchar
-    - password	      varchar
-    - Remember_token	varchar
+    - id	            - integer
+    - time	          - timestamp
+    - email     	    - varchar
+    - First_name	    - varchar
+    - password	      - varchar
+    - Remember_token	- varchar
  - Tbl_likes
     - id	            integer
     - time	          timestamp
